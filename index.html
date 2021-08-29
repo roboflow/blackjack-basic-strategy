@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Roboflow Blackjack Basic Strategy Demo</title>
+
+    <meta name="viewport" content="width=640, user-scalable=no" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.20/lodash.min.js" integrity="sha512-90vH1Z83AJY9DmlWa8WkjkV79yfS2n2Oxhsi2dZbIv0nC4E6m5AbH8Nh156kkM7JePmqD6tcZsfad1ueoaovww==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/async/3.2.0/async.min.js" integrity="sha512-6K6+H87tLdCWvY5ml9ZQXLRlPlDEt8uXmtELhuJRgFyEDv6JvndWHg3jadJuBVGPEhhA2AAt+ROMC2V7EvTIWw==" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.roboflow.com/0.2.0/roboflow.js"></script>
+
+    <link rel="stylesheet" href="./main.css">
+    <script src="./main.js"></script>
+</head>
+<body class="loading">
+    <div id="handValue"></div>
+    <video id="video" autoplay muted playsinline></video>
+    <div id="fps"></div>
+    <div id="dealerUpcard">
+        <div class="instructions">Dealer Upcard:</div>
+        <div class="options">
+            <button val="A" class="selected">Ace</button>
+            <button val="2">Two</button>
+            <button val="3">Three</button>
+            <button val="4">Four</button>
+            <button val="5">Five</button>
+            <button val="6">Six</button>
+            <button val="7">Seven</button>
+            <button val="8">Eight</button>
+            <button val="9">Nine</button>
+            <button val="10">Ten</button>
+        </div>
+    </div>
+</body>
+</html>
