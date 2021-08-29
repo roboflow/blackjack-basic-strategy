@@ -19,6 +19,7 @@ This app was live coded on YouTube; [watch the recording](https://www.youtube.co
 
 ### Resources
 
+* [Try It](https://roboflow-ai.github.io/blackjack-basic-strategy/) - this project is deployed on GitHub Pages. You can try it on your phone or computer's webcam. Just point your camera at a Blackjack hand, select the dealer's face-up card, and it will tell you what to do.
 * [Roboflow Universe](https://universe.roboflow.com) - share computer vision datasets and pre-trained models.
 * [Playing Cards Pre-Trained Model](https://universe.roboflow.com/augmented-startups/playing-cards-ow27d) - shared on Roboflow Universe by [Augmented Startups](https://www.augmentedstartups.com/).
 * [Roboflow YouTube](https://www.youtube.com/channel/UCUlRrGpNRT5jbiV8h5Q_4Fg?sub_confirmation=1) - where you can follow along with the live-coding session of this app being built and find other computer vision content.
