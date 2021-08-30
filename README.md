@@ -12,7 +12,7 @@ Blackjack hand, tell it what card the dealer has facing up, and it will tell you
 what your optimal next move is based on
 [basic strategy](http://www.blackjackcalculation.com/blackjack-great-basic-strat.png).
 
-[![Screenshot; click here to try it!](screenshot.jpg)](https://roboflow-ai.github.io/blackjack-basic-strategy/)
+[![Click here to try it!](blackjack.gif)](https://roboflow-ai.github.io/blackjack-basic-strategy/)
 
 ## [🤳 Try it on your phone or in your web browser on GitHub Pages here.](https://roboflow-ai.github.io/blackjack-basic-strategy/)
 
