@@ -14,7 +14,7 @@ what your optimal next move is based on
 
 [![Click here to try it!](blackjack.gif)](https://roboflow.github.io/blackjack-basic-strategy/)
 
-## [🤳 Try it on your phone or in your web browser on GitHub Pages here.](https://roboflow-ai.github.io/blackjack-basic-strategy/)
+## [🤳 Try it on your phone or in your web browser on GitHub Pages here.](https://roboflow.github.io/blackjack-basic-strategy/)
 
 ### Watch the Live Stream
 This app was live coded on YouTube; [watch the recording](https://www.youtube.com/watch?v=xzh_R8u0hNc).
