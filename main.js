@@ -335,7 +335,7 @@ function determineAction(cards, dealerUpcard, total, soft, isPair, busted, isBla
     if(soft) {
         if(total < 18) return "Hit.";
         if(total > 18) return "Stay.";
-        if(getValueOfCard(dealerUpcard + "D") < 8) return "Stay.";
+        if(getValueOfCard(dealerUpcard + "D") <= 8) return "Stay.";
         return "Hit.";
     } else {
         if(total < 12) return "Hit.";
